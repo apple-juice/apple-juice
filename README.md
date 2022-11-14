@@ -4,7 +4,12 @@
 
 My name is Julia, and I'm a frontend developer that enjoys creating eye-catching & interactive things that live on the web. I'm from Russia, but living in Malta now. 
 
-Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (already 4 years wow!)
+Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (already 4 years wow!)!
+
+<div>
+  <img src="https://user-images.githubusercontent.com/2690724/201744384-39ca123c-b329-47cd-b1a3-53a7545c16dd.png" width="450px" style="max-width:100%;"/>
+ </div>
+
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=apple-juice&label=Profile%20views&color=0e75b6&style=flat" alt="apple-juice" />
