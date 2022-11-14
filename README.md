@@ -7,7 +7,7 @@ My name is Julia, and I'm a frontend developer that enjoys creating eye-catching
 Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (already 4 years wow!)!
 
 <div>
-  <img src="https://user-images.githubusercontent.com/2690724/201744384-39ca123c-b329-47cd-b1a3-53a7545c16dd.png" width="450px" style="max-width:100%;"/>
+  <img src="https://user-images.githubusercontent.com/2690724/201745336-51935a47-6d8f-4817-b68b-4f63f663c76a.png" width="450px" style="max-width:100%;"/>
  </div>
 
 
