@@ -4,7 +4,7 @@
 
 My name is Julia, and I'm a frontend developer that enjoys creating eye-catching & interactive things that live on the web. I'm from Russia, but living in Malta now. 
 
-Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (already 4 years wow!)!
+Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (already 4 years wow!)
 
 <div>
   <img src="https://user-images.githubusercontent.com/2690724/201745336-51935a47-6d8f-4817-b68b-4f63f663c76a.png" width="450px" style="max-width:100%;"/>
