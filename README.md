@@ -21,9 +21,15 @@ Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (alr
 
 <!--Portfolio-->
   <a href="https://www.daycoder.name" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/58303f0576559ea5bd6dad66e2a43cdab19d1902f1d4bdf693e8c0956dc1b46a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3362353939383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465" alt="Website Badge" data-canonical-src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" alt="Website Badge" style="max-width:100%;">
+  </a>
+  
+  <!--CodePen-->
+  <a href="https://codepen.io/apple-juice" rel="nofollow">
+  <img src="https://img.shields.io/badge/Codepen-131417?style=flat-square&logo=codepen&logoColor=white?" alt="Codepen Badge" style="max-width:100%;">
   </a>
 </div>
+
 <br/>
 
 
@@ -32,6 +38,7 @@ Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (alr
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
 ![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Typescript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=222222&logo=Typescript&logoColor=61DAFB&label=)
 ![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=222222&logo=Gatsby&logoColor=663399&label=)
 ![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=FFFFFF&label=)
 ![Stitches-JS](https://img.shields.io/static/v1?style=for-the-badge&message=stitches.js&color=222222&logo=stitches.js&logoColor=FFFFFF&label=)
