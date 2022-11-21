@@ -56,15 +56,15 @@ Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (alr
 
 <br/>
 
-<!-- A+-->
+<!-- A+
 
 ## &#x1f4c8; GitHub Stats
 
 ![Julia's GitHub stats](https://jolibois-readme-stats.vercel.app/api?username=apple-juice&show_icons=true&theme=bear&include_all_commits=true&count_private=true&hide_border=true)
-
-<!-- streak-->
+-->
+<!-- streak
 [![Julia's Streak](http://github-readme-streak-stats.herokuapp.com?user=apple-juice&theme=bear&hide_border=true)](https://github.com/apple-juice)
-
+-->
 
 
 <!--
