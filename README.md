@@ -1,5 +1,5 @@
 
-## Hi there, I'm <a href="https://daycoder.name" rel="nofollow">Julia Grebenshchikova</a> <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">--> <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25rem"><br/>A frontend developer with passion in ✨ CSS ✨ 
+## Hi there, I'm <a href="https://jucoder.dev" rel="nofollow">Julia Grebenshchikova</a> <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">--> <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25rem"><br/>A frontend developer with passion in ✨ CSS ✨ 
 
 
 My name is Julia, and I'm a frontend developer that enjoys creating eye-catching & interactive things that live on the web. I'm from Russia, but living in Malta now. 
@@ -20,7 +20,7 @@ Currently working at <a href="https://stake.fish"><b>stakefish 🐠</b></a> (alr
   </a>
 
 <!--Portfolio-->
-  <a href="https://www.daycoder.name" rel="nofollow">
+  <a href="https://www.jucoder.dev" rel="nofollow">
   <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" alt="Website Badge" style="max-width:100%;">
   </a>
   
